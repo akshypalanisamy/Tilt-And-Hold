@@ -1,6 +1,3 @@
 # Tilt & Hold 
-A 3D IOS puzzle game created using the Unity editor. The game is available on the App Store for iPhone and iPad:
-
-
-For any questions or concerns please contact: asktendance@gmail.com
+A 3D IOS puzzle game created using the Unity editor.
 
